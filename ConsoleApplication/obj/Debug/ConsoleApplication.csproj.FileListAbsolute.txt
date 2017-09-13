@@ -1,0 +1,6 @@
+/home/nyancetch/RiderProjects/ConsoleApplication/ConsoleApplication/bin/Debug/ConsoleApplication.exe
+/home/nyancetch/RiderProjects/ConsoleApplication/ConsoleApplication/bin/Debug/ConsoleApplication.pdb
+/home/nyancetch/RiderProjects/ConsoleApplication/ConsoleApplication/obj/Debug/ConsoleApplication.csprojResolveAssemblyReference.cache
+/home/nyancetch/RiderProjects/ConsoleApplication/ConsoleApplication/obj/Debug/ConsoleApplication.csproj.CoreCompileInputs.cache
+/home/nyancetch/RiderProjects/ConsoleApplication/ConsoleApplication/obj/Debug/ConsoleApplication.exe
+/home/nyancetch/RiderProjects/ConsoleApplication/ConsoleApplication/obj/Debug/ConsoleApplication.pdb
